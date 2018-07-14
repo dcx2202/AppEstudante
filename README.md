@@ -1,6 +1,6 @@
 # AppEstudante
 
-## Project developed for Software Processes and Metrics
+## Project developed for university subject "Software Processes and Metrics"
 
 
 ### Developed for iOS (XCode - Swift) and Android (Android Studio - Java)
